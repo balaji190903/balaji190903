@@ -10,16 +10,6 @@
 
 I'm a backend developer with over a year of experience building scalable and efficient web applications. My focus is on creating clean, maintainable code that delivers real-world impact. I enjoy solving complex problems and optimizing for performance and reliability.
 
-## 💼 Experience
-
-### IT Analyst
-**GI Scripts Company** *(Jan 2024 - Present)*
-- Started as a 6-month intern and transitioned to full-time Python Developer
-- Developing backend systems using Django framework
-- Building RESTful APIs and implementing user authentication
-- Collaborating with cross-functional teams to enhance performance
-- Integrating backend logic with frontend systems
-
 ## 🛠️ Skills
 
 ### Technical Skills
@@ -38,14 +28,6 @@ I'm a backend developer with over a year of experience building scalable and eff
 - Communication
 
 ## 🔥 Projects
-
-### 📊 SyncSphere Hub
-A scalable middleware solution that synchronizes real-time data between analytics platforms.
-
-**Tech Stack:** Django REST APIs, Redis Pub/Sub, JWT Authentication, Celery, WebSockets
-- Achieved 80% improvement in data sync speed
-- Implemented real-time notifications using Django Channels
-- Enhanced system monitoring and logging
 
 ### 🤖 MediBot – AI Health Assistant
 An AI-powered chatbot for real-time health-related queries.
