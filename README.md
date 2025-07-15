@@ -63,7 +63,6 @@ An AI-powered chatbot for real-time health-related queries.
 - 📱 Phone: [+91 8056786742](tel:+918056786742)
 - 📧 Email: [balajimuruganandham19@gmail.com](mailto:balajimuruganandham19@gmail.com)
 - 💼 LinkedIn: [www.linkedin.com/in/balaji-m-Baskaran](https://www.linkedin.com/in/balaji-m-Baskaran)
-- 🌐 Portfolio: [balaji-portfolio-hub.lovable.app](https://balaji-portfolio-hub.lovable.app)
 - 💻 GitHub: [github.com/balaji190903](https://github.com/balaji190903)
 
 ---
