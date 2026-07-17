@@ -67,12 +67,13 @@ balaji_m:
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/balaji190903?style=for-the-badge&color=8AB4F8&logo=github&logoColor=white&label=Followers" />
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=8AB4F8&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/balaji190903&logo=github&logoColor=white" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji190903&theme=react-dark&hide_border=true" width="95%" />
+
+<br/><br/>
+
+
 
 </div>
-
-> GitHub already shows your official contribution graph, commit activity, and repository stats natively on your profile page — right below this README, with no third-party widget needed. That native graph is the accurate, always-up-to-date source, so it's kept as the single source of truth here instead of duplicating it with services that can go down or rate-limit.
 
 <br/>
 
@@ -103,7 +104,6 @@ balaji_m:
 | 🌍 **Contribute to Open Source** | Give back to the tools I rely on daily and learn from real-world, production-grade codebases. |
 | ⚡ **Master FastAPI** | Go beyond CRUD — deep-dive into async patterns, dependency injection, and high-performance API design. |
 | 🧠 **Master Machine Learning** | Move from experimenting with models to confidently shipping ML features into real applications. |
-| ☸️ **Learn Kubernetes** | Understand container orchestration well enough to deploy and scale backend services reliably in production. |
 
 </div>
 
@@ -133,7 +133,7 @@ balaji_m:
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=balaji190903&color=4B9CD3&style=flat-square&label=Profile+Views)
+
 
 <br/>
 
