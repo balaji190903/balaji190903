@@ -75,21 +75,15 @@ balaji_m:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=39FF14&background=0D0D0D00&center=true&vCenter=true&width=500&lines=%F0%9F%9F%A2+LIVE+%2F%2F+self-hosted%2C+zero+external+dependency" alt="live status"/>
 
-</div>
-
-> `github-readme-stats` (stats/top-langs) and the snake-Action route both depend on either a flaky shared server or a setup step — too many moving parts. Simplified to one single, lightweight, always-on contribution graph instead.
-
-<div align="center">
+<br/><br/>
 
 <img src="https://ghchart.rshah.org/39FF14/balaji190903" width="100%" alt="balaji190903's GitHub contribution graph"/>
 
 </div>
 
-This pulls straight from a single dedicated service built just for this one graph — no custom setup, no GitHub Action, no waiting for anything to run first. It just works as soon as it's committed.
-
 <br/>
 
-## `03.` Currently Learning — DevOps & Tools
+## `04.` Currently Learning — DevOps & Tools
 
 <div align="center">
 
@@ -105,7 +99,7 @@ This pulls straight from a single dedicated service built just for this one grap
 
 <br/>
 
-## `04.` Where I'm Headed
+## `05.` Where I'm Headed
 
 <div align="center">
 
@@ -121,7 +115,7 @@ This pulls straight from a single dedicated service built just for this one grap
 
 <br/>
 
-## `05.` Connect With Me
+## `06.` Connect With Me
 
 <div align="center">
 
