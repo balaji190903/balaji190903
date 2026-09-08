@@ -1,29 +1,29 @@
 <div align="center">
 
-# Balaji M
-
-### Python Developer &nbsp;|&nbsp; Backend Developer &nbsp;|&nbsp; AI & ML Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=BALAJI%20M&fontSize=55&fontColor=00fff9&animation=twinkling&fontAlignY=38&desc=Python%20%7C%20Backend%20%7C%20AI%20and%20ML&descAlignY=58&descColor=ff00ff" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8AB4F8&center=true&vCenter=true&width=600&lines=Python+Developer;FastAPI+Developer;AI+%26+ML+Enthusiast;Always+Learning;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00FFF9&background=0D0D0D00&center=true&vCenter=true&width=650&lines=%3E+booting+balaji_m.exe...;Python+Developer+%F0%9F%92%BB;FastAPI+%2F+Django+Backend+%E2%9A%A1;AI+and+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+%2F%2F+Always+Building" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## `01.` About Me
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle">
+<td width="60%" valign="middle">
 
 ```yaml
 balaji_m:
   role: "Python & Backend Developer"
   focus: "AI & Machine Learning Enthusiast"
   philosophy: "Build scalable backend applications & keep learning"
-  fun_fact: "I speak fluent Python, occasional FastAPI, and a bit of coffee ☕"
+  status: "🟢 online — compiling ideas into code"
 ```
 
 - 💻 &nbsp;Python Backend Developer
@@ -33,7 +33,7 @@ balaji_m:
 - 🌱 &nbsp;Always exploring new technologies
 
 </td>
-<td width="38%" align="center">
+<td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
@@ -41,9 +41,13 @@ balaji_m:
 </tr>
 </table>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+</div>
+
 <br/>
 
-## 🧰 Tech Stack
+## `02.` Tech Stack
 
 <div align="center">
 
@@ -51,49 +55,57 @@ balaji_m:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/REST%20API-00FFF9?style=for-the-badge&logo=fastapi&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Postman-FF00FF?style=for-the-badge&logo=postman&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Swagger-39FF14?style=for-the-badge&logo=swagger&logoColor=0D0D0D" />
 <br/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-00FFF9?style=for-the-badge&logo=openai&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF00FF?style=for-the-badge&logo=tensorflow&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/LLM-39FF14?style=for-the-badge&logo=huggingface&logoColor=0D0D0D" />
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji190903&theme=react-dark&hide_border=true" width="95%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff9,100:ff00ff&height=70&text=03.%20GITHUB%20ANALYTICS%20HUB&fontSize=24&fontColor=0D0D0D&animation=fadeIn&fontAlignY=55"/>
 
-<br/><br/>
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=39FF14&background=0D0D0D00&center=true&vCenter=true&width=500&lines=%F0%9F%9F%A2+LIVE+%2F%2F+self-hosted%2C+zero+external+dependency" alt="live status"/>
 
 </div>
 
-<br/>
-
-## 📖 Currently Learning — DevOps & Tools
+> `github-readme-stats` (stats/top-langs) and the snake-Action route both depend on either a flaky shared server or a setup step — too many moving parts. Simplified to one single, lightweight, always-on contribution graph instead.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://ghchart.rshah.org/39FF14/balaji190903" width="100%" alt="balaji190903's GitHub contribution graph"/>
+
+</div>
+
+This pulls straight from a single dedicated service built just for this one graph — no custom setup, no GitHub Action, no waiting for anything to run first. It just works as soon as it's committed.
+
+<br/>
+
+## `03.` Currently Learning — DevOps & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Docker-00FFF9?style=flat-square&logo=docker&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Kubernetes-FF00FF?style=flat-square&logo=kubernetes&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/AWS-39FF14?style=flat-square&logo=amazonaws&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Linux-00FFF9?style=flat-square&logo=linux&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Git-FF00FF?style=flat-square&logo=git&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/CI%2FCD-39FF14?style=flat-square&logo=githubactions&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Nginx-00FFF9?style=flat-square&logo=nginx&logoColor=0D0D0D" />
 
 </div>
 
 <br/>
 
-## 🚀 Where I'm Headed
+## `04.` Where I'm Headed
 
 <div align="center">
 
@@ -109,19 +121,23 @@ balaji_m:
 
 <br/>
 
-## 🤝 Connect With Me
+## `05.` Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/balaji-m-baskaran">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-00FFF9?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" />
 </a>
 <a href="mailto:balajimuruganandham19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=0D0D0D" />
 </a>
 <a href="https://github.com/balaji190903">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0D0D0D" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=balaji190903&label=PROFILE+VIEWS&color=00fff9&style=flat-square" />
 
 </div>
 
@@ -133,10 +149,10 @@ balaji_m:
 
 <br/>
 
-
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
 <br/>
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
