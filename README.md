@@ -131,7 +131,7 @@ balaji_m:
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=balaji190903&label=PROFILE+VIEWS&color=00fff9&style=flat-square" />
+
 
 </div>
 
